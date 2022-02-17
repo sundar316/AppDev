@@ -1,5 +1,3 @@
-package AppDev.ATM;
-
 import java.util.Scanner;
 
 public class User {
