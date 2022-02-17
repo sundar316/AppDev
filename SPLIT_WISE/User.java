@@ -1,5 +1,3 @@
-package AppDev.SPLIT_WISE;
-
 import java.util.ArrayList;
 import java.util.List;
 
