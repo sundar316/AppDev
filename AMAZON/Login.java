@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Login {
        static Scanner sc=new Scanner(System.in);
        static Admin ad;
