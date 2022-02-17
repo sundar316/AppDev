@@ -1,5 +1,3 @@
-package AppDev.ATM;
-
 import java.util.Scanner;
 public class Login {
     private static Scanner sc=new Scanner(System.in);
