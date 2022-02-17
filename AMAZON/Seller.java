@@ -1,5 +1,3 @@
-package AppDev.AMAZON;
-
 import java.util.ArrayList;
 import java.util.List;
 
