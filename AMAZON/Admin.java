@@ -1,5 +1,3 @@
-package AppDev.AMAZON;
-
 public class Admin {
     public void admin(){
         while(true)
