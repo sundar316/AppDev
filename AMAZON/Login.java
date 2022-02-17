@@ -1,5 +1,3 @@
-package AppDev.AMAZON;
-
 import java.util.Scanner;
 
 public class Login {
