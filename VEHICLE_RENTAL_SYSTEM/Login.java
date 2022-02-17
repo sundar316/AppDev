@@ -1,5 +1,3 @@
-package AppDev.VEHICLE_RENTAL_SYSTEM;
-
 import java.util.Scanner;
 
 public class Login
