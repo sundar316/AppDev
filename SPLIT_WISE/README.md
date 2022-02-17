@@ -1,4 +1,4 @@
-#Split Wise Console Application
+# Split Wise Console Application
 
 First run the "Login.java" File
 
